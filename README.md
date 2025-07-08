@@ -28,7 +28,8 @@ This project blinks the onboard LED (pin 13) with a delay of 1 second.
 
 ## 📷 Screenshot
 
-_Add a screenshot of your simulation here_ (optional)
+![LED Blink Simulation](screenshot.png)
+
 
 ---
 
